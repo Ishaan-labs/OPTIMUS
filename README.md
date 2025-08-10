@@ -14,5 +14,4 @@ Its uses different library of python. these are
 -google genrative ai
 
 -webbrowser
-
 -pyautogui
